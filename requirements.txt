@@ -26,7 +26,7 @@ imgaug==0.4.0
 itsdangerous==2.1.2
 jax==0.4.8
 Jinja2==3.1.2
-keras==2.12.0
+keras==3.8.0
 Keras-Applications==1.0.8
 keras-ocr==0.8.9
 kiwisolver==1.4.4
